@@ -1,0 +1,3 @@
+INFO:root:So should this
+INFO:hyperopt.tpe:tpe_transform took 0.005151 seconds
+INFO:hyperopt.tpe:TPE using 0 trials
